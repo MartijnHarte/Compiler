@@ -205,7 +205,7 @@ abstract class Rule
     /**
      * Get node options.
      *
-     * @retrun  array
+     * @return  array
      */
     public function getNodeOptions()
     {
